@@ -1,9 +1,9 @@
 export const Skills = () => {
   return (
-    <section className="py-20 bg-gray-900 p-7">
+    <section className="py-20 bg-gray-950 border-t border-gray-800 p-7">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-          <div className="bg-blue-600 w-12 h-12 rounded-xl flex items-center justify-center mb-4">
+        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
+          <div className="bg-teal-500 rounded-xl inline-flex min-w-16 min-h-12 items-center justify-center mb-4 px-3 py-1">
             <h3 className="text-xl font-semibold">HTML</h3>
           </div>
           <p className="text-gray-300">
@@ -11,15 +11,15 @@ export const Skills = () => {
           </p>
         </div>
 
-        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-          <div className="bg-blue-600 w-12 h-12 rounded-xl flex items-center justify-center mb-4">
+        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
+          <div className="bg-teal-500 rounded-xl inline-flex min-w-16 min-h-12 items-center justify-center mb-4 px-3 py-1">
             <h3 className="text-xl font-semibold">CSS</h3>
           </div>
           <p className="text-gray-300">Estilização moderna e responsiva.</p>
         </div>
 
-        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-          <div className="bg-blue-600 w-12 h-12 rounded-xl flex items-center justify-center mb-4">
+        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
+          <div className="bg-teal-500 rounded-xl inline-flex min-w-16 min-h-12 items-center justify-center mb-4 px-3 py-1">
             <h3 className="text-xl font-semibold">JavaScript</h3>
           </div>
           <p className="text-gray-300">
@@ -27,8 +27,8 @@ export const Skills = () => {
           </p>
         </div>
 
-        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-          <div className="bg-blue-600 w-12 h-12 rounded-xl flex items-center justify-center mb-4">
+        <div className="bg-gray-900 border border-gray-700 rounded-2xl p-6 hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
+          <div className="bg-teal-500 rounded-xl inline-flex min-w-16 min-h-12 items-center justify-center mb-4 px-3 py-1">
             <h3 className="text-xl font-semibold">React</h3>
           </div>
           <p className="text-gray-300">
